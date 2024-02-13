@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PublisherConsole
-build_property.ProjectDir = M:\PluralsightEFCoreFundamentals_EF8\M02 Building Your FIrst App updatedtested\Before\PublisherConsole\
+build_property.ProjectDir = /Users/kholoudasb/code/Cameliaasb/poei/EFCoreDemo/PublisherConsole/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
